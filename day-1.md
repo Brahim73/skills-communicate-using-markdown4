@@ -21,3 +21,4 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 1. Step 3
 - [x] This task is complete
 - [ ] This task is not complete
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
